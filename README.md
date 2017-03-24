@@ -1,14 +1,12 @@
 # Boston_Housing
-This repository contains project files for ‘Project 1 - Boston Housing’ as part of Udacity's Machine Learning Nanodegree. 
+This repository contains project files for ‘Project 1 - Boston Housing’ as part of Udacity's Machine Learning Nanodegree. The project can be viewed by opening 'boston_housing.html' in a web browser, or can be run interactively by opening 'boston_housing.ipynb' in a Jupyter Notebook.
 
 In this project, I show some basic statistics of data collected from homes in suburbs of Boston, Massachusetts. I then evaluate the performance and predictive power of a model that has been trained and tested on this data. The model is used to make predictions of a home's monetary value. This kind of model would be useful to someone like a real estate agent on a daily basis, to help them make better business decisions.
-
-The project can be viewed using the .html file in a web browser, or interactively opening the .ipynb in a Jupyter Notebook.
 
 Starter files provided by Udacity are in the 'Boston Housing Starter Files' folder. 
 
 ## Screenshots
-Below are a couple screenshots showing the distribution of survivors based on age.
+Below are a couple screenshots showing features of this project.
 
 ![](boston_housing_stats.png)
 

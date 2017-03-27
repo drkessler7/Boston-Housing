@@ -6,7 +6,7 @@ In this project, I show some basic statistics of data collected from homes in su
 Starter files provided by Udacity are in the 'Boston Housing Starter Files' folder. 
 
 ## Screenshots
-Below are a couple screenshots showing features of this project.
+Below are a few screenshots showing features of this project.
 
 ![](boston_housing_stats.png)
 
